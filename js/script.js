@@ -7,6 +7,7 @@
 // 3.3 - Se verdadeiro, adicionar classe de animação, remover se for falso.
 // 4 - Ativar a função de animação toda vez que o usuário utilizar o scroll
 // 5 - Otimizar ativação
+
 // Debounce do Lodash
 const debounce = function(func, wait, immediate) {
   let timeout;
